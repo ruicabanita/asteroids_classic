@@ -206,13 +206,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "asteroids_classic"
-version = "0.1.0"
-dependencies = [
- "bevy",
-]
-
-[[package]]
 name = "async-broadcast"
 version = "0.5.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -3981,4 +3974,11 @@ dependencies = [
  "proc-macro2",
  "quote",
  "syn 2.0.59",
+]
+
+[[package]]
+name = "zymartu_games_tutorial"
+version = "0.1.0"
+dependencies = [
+ "bevy",
 ]
